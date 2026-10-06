@@ -1,0 +1,9 @@
+com\library\model\Book.class
+com\library\repository\BookRepository.class
+com\library\Main.class
+com\library\repository\StudentRepository.class
+com\library\config\MongoDBConnection.class
+com\library\controller\BookController.class
+com\library\model\Student.class
+com\library\config\CorsConfig.class
+com\library\controller\StudentController.class
